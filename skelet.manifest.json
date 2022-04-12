@@ -1,0 +1,15 @@
+{
+  "skeletPluginStoreID": "86e4883d-71ed-4bfc-8f41-b9d88a4af218",
+  "name": "Mentat Controls",
+  "description": "",
+  "author": "Skelet",
+  "link": "https://skelet.app/plugins/86e4883d-71ed-4bfc-8f41-b9d88a4af218/MentatControls",
+  "email": "alex@ixai.net",
+  "files": [
+    {
+      "path": "lib/HTMLPlugin.js",
+      "mime": "text/javascript"
+    }
+
+  ]
+}
